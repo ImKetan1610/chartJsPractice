@@ -1,8 +1,12 @@
-# React + Vite
+# Charts:
+**Live Link:** 
+[click here](https://chartjs-practice.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introduction:
+- This repository consist of the basic practice code for the Chart.js
+- Here, I am trying to cerate the bar, line and pie chart with the help of chartJs and react-chartjs-2 libraries.
+## Tech Stack Used:
+- React, ChartJS, HTML,CSS and JS
+## Snaps: 
+- snap of the Static website
+![snap](./assets/snapOfSPA.jpg)
